@@ -1,0 +1,24 @@
+# Minimal Odoo Modules for Production
+# Core modules only - add more as needed
+
+# Base (required)
+base
+web
+
+# Essential Business
+sale_management
+purchase
+account
+stock
+
+# Core HR
+hr
+hr_holidays
+
+# Communication
+mail
+calendar
+contacts
+
+# These provide the foundation for most businesses
+# Additional modules can be added as needed

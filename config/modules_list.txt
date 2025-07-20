@@ -1,0 +1,273 @@
+# Odoo Community Edition - Official Modules List
+# One module per line
+# Modules are grouped by category for clarity
+# Order matters - dependencies are handled automatically
+
+# Base & Core (usually auto-installed)
+base
+web
+
+# Sales & CRM
+sale_management
+sale
+crm
+sale_timesheet
+sale_project
+sale_expense
+sale_stock
+sale_purchase
+sale_mrp
+sale_product_configurator
+product_margin
+
+# Point of Sale
+point_of_sale
+pos_sale
+pos_discount
+pos_restaurant
+
+# Inventory & Warehouse
+stock
+stock_account
+stock_landed_costs
+stock_dropshipping
+stock_picking_batch
+delivery
+product_expiry
+
+# Purchase
+purchase
+purchase_stock
+purchase_mrp
+purchase_requisition
+purchase_product_matrix
+
+# Manufacturing
+mrp
+mrp_account
+mrp_subcontracting
+mrp_product_expiry_simple
+mrp_workorder
+quality_control
+quality_control_worksheet
+quality_mrp
+quality_mrp_workorder
+
+# Project Management
+project
+project_timesheet_holidays
+project_purchase
+project_mrp
+hr_timesheet
+timesheet_grid
+project_forecast
+
+# Human Resources
+hr
+hr_holidays
+hr_expense
+hr_recruitment
+hr_attendance
+hr_skills
+hr_contract
+hr_work_entry
+hr_org_chart
+hr_presence
+hr_gamification
+hr_appraisal
+
+# Accounting & Finance
+account
+account_asset
+account_budget
+account_payment
+account_check_printing
+account_batch_payment
+account_sepa
+account_bank_statement_import
+account_tax_python
+account_edi
+account_edi_ubl_cii
+l10n_generic_coa
+
+# Website & eCommerce
+website
+website_sale
+website_blog
+website_slides
+website_event
+website_hr_recruitment
+website_sale_slides
+website_sale_comparison
+website_sale_wishlist
+website_customer
+website_mail
+website_livechat
+website_forum
+website_profile
+website_sale_stock
+website_sale_delivery
+website_sale_product_configurator
+website_payment
+payment
+website_twitter
+website_crm
+website_sale_digital
+
+# Marketing
+mass_mailing
+mass_mailing_sms
+mass_mailing_crm
+mass_mailing_sale
+mass_mailing_slides
+mass_mailing_event
+marketing_automation
+social_media
+social_twitter
+social_facebook
+social_linkedin
+social_youtube
+social_instagram
+
+# Communication
+mail
+calendar
+contacts
+discuss
+sms
+phone_validation
+
+# Events
+event
+event_sale
+event_booth
+event_booth_sale
+
+# Fleet Management
+fleet
+
+# Maintenance
+maintenance
+
+# Helpdesk & Support
+helpdesk
+website_helpdesk
+website_helpdesk_forum
+website_helpdesk_livechat
+website_helpdesk_slides
+
+# Repairs
+repair
+
+# Field Service
+industry_fsm
+industry_fsm_sale
+industry_fsm_stock
+
+# Documents & Sign
+documents
+documents_hr
+documents_product
+sign
+
+# Surveys
+survey
+
+# eLearning
+website_slides_survey
+rating
+
+# Expenses
+hr_expense_check
+sale_expense_margin
+
+# Inventory
+stock_barcode
+stock_barcode_mobile
+stock_sms
+
+# Time Off
+hr_holidays_attendance
+hr_holidays_gantt
+
+# Planning
+planning
+
+# Appointments
+appointment
+
+# Knowledge
+knowledge
+
+# IoT
+iot
+
+# Dashboards
+board
+
+# Approvals
+approvals
+approvals_purchase
+approvals_purchase_stock
+
+# Data Cleaning
+data_cleaning
+
+# Spreadsheet
+spreadsheet
+spreadsheet_account
+spreadsheet_dashboard
+
+# Utilities
+barcodes
+web_tour
+web_unsplash
+partner_autocomplete
+snailmail
+snailmail_account
+
+# Reporting
+web_dashboard
+
+# Notes
+note
+
+# To-Do
+project_todo
+
+# Lunch
+lunch
+
+# Members
+membership
+
+# IAP (Internet Access Provider)
+iap
+iap_crm
+iap_mail
+
+# Other Tools
+utm
+gamification
+survey_crm
+pad
+pad_project
+google_recaptcha
+auth_oauth
+auth_signup
+auth_totp
+base_address_city
+base_address_extended
+base_geolocalize
+base_iban
+base_import
+base_import_module
+base_setup
+base_vat
+fetchmail
+link_tracker
+portal
+resource
+
+# Themes (Basic)
+theme_default

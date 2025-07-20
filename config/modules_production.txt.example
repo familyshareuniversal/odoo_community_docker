@@ -1,0 +1,76 @@
+# Production Modules List
+# Customize this file based on your company needs
+# Rename to modules_production.txt and uncomment needed modules
+
+# === SALES & CRM ===
+sale_management
+crm
+# sale_timesheet
+# sale_purchase
+# sale_stock
+# sale_project
+# sale_subscription
+# sale_renting
+
+# === INVENTORY & MANUFACTURING ===
+stock
+# mrp
+# mrp_plm
+# quality_control
+# quality_control_worksheet
+# stock_barcode
+# stock_picking_batch
+
+# === ACCOUNTING & FINANCE ===
+account
+# account_asset
+# account_budget
+# account_consolidation
+# account_payment
+# account_check_printing
+
+# === HUMAN RESOURCES ===
+hr
+hr_holidays
+# hr_recruitment
+# hr_expense
+# hr_attendance
+# hr_skills
+# hr_contract
+# hr_payroll
+
+# === PROJECT MANAGEMENT ===
+# project
+# project_timesheet_holidays
+# project_forecast
+# project_todo
+
+# === WEBSITE & ECOMMERCE ===
+# website
+# website_sale
+# website_blog
+# website_event
+# website_slides
+# website_forum
+# website_hr_recruitment
+
+# === MARKETING ===
+# mass_mailing
+# mass_mailing_sms
+# marketing_automation
+# social_media
+
+# === HELPDESK & SUPPORT ===
+# helpdesk
+# website_helpdesk
+# website_helpdesk_livechat
+
+# === DOCUMENT MANAGEMENT ===
+# documents
+# sign
+
+# === OTHER TOOLS ===
+# survey
+# appointment
+# board
+# iot
