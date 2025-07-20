@@ -161,8 +161,8 @@ docker-compose logs -f
 
 ### 🎯 Default Login Credentials (after automated setup)
 - **URL**: http://localhost:8069
-- **Email**: rohitsoni@gmail.com
-- **Password**: Rohit819
+- **Username**: admin
+- **Password**: admin
 - **Database**: Demo
 
 ---

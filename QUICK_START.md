@@ -16,9 +16,9 @@ cd /path/to/odoo_community
 Open your browser and go to: **http://localhost:8069**
 
 ### Step 3: Login
-- **Database**: Select your database (or create one)
-- **Email**: admin@yourcompany.com (or what was set during setup)
-- **Password**: Your admin password
+- **Database**: Select your database (Demo for automated setup)
+- **Username**: admin
+- **Password**: admin
 
 ## 📱 Common Tasks
 
